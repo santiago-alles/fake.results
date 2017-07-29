@@ -28,7 +28,7 @@ Arguments
 
 <code>chambers</code> A vector of legislative chambers. If not defined, <code>chambers = c("lower", "upper")</code>.
 
-<code>years</code> List of election years. If not defined, a random list of election years will be used.
+<code>years</code> A vector with a list of election years. If not defined, a random list of election years will be used.
 
 Required packages 
 ------------------
