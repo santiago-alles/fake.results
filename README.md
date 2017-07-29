@@ -12,12 +12,12 @@ Availability
 ------------------
 
 The script can be called directly from the repository:
-<pre><code>source("https://raw.github.com/santiago-alles/fake.results/master/random_results.r")</code></pre>
+<pre><code>source('https://raw.github.com/santiago-alles/fake.results/master/random_results.r')</code></pre>
 
 Usage
 ------------------
 
-<pre><code>results.FUN( parties, num.districts, chambers = c("lower", "upper") , years )</code></pre>
+<pre><code>results.FUN( parties, num.districts, chambers = c('lower', 'upper') , years )</code></pre>
 
 Arguments
 ------------------
@@ -26,7 +26,7 @@ Arguments
 
 <code>num.districts</code> Number of electoral districts. If not defined, a random number of districts will be used.
 
-<code>chambers</code> A vector of legislative chambers. If not defined, <code>chambers = c("lower", "upper")</code>.
+<code>chambers</code> A vector of legislative chambers. If not defined, <code>chambers = c('lower', 'upper')</code>.
 
 <code>years</code> A vector with a list of election years. If not defined, a random list of election years will be used.
 
