@@ -12,7 +12,7 @@ Availability
 ------------------
 
 The script can be called directly from the repository:
-<pre><code>source("https://raw.github.com/santiago-alles/enp.script/master/random_results.r")</code></pre>
+<pre><code>source("https://raw.github.com/santiago-alles/fake.results/master/random_results.r")</code></pre>
 
 Usage
 ------------------
