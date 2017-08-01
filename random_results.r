@@ -1,5 +1,5 @@
 #### R Script: Random Election Results
-#### by Santiago Alles, PhD
+#### by Santiago Alles (PhD, Rice University)
 #### Universidad del Rosario
 
 #### Updated to: 07/29/2017
