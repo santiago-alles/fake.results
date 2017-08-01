@@ -5,7 +5,7 @@ Create random (fake) election results
 Description
 ------------------
 
-This function produces a set of random election results, over multiple years, chambers and districts. It allows to manipulate the number of parties, districts and election cycles.
+This function produces a set of random election results, over multiple years, chambers and districts. It allows to manipulate the number and label of parties, the number of districts, and the years of election cycles.
 
 
 Availability
@@ -22,7 +22,7 @@ Usage
 Arguments
 ------------------
 
-<code>parties</code> A vector of party labels to be used in the data generation. If not defined, fake labels will be used.
+<code>parties</code> A vector of party labels to be used in the data generation. If not defined, a random number of parties -from two to five parties per electoral district- will be created, using fake labels.
 
 <code>num.districts</code> Number of electoral districts. If not defined, a random number of districts will be used.
 
